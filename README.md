@@ -36,4 +36,4 @@ Bu repodaki `.sql` dosyasında (AdventureWorks_Portföy_Sorguları.sql) aşağı
 Detaylı SQL kodlarını ve açıklamaları incelemek için lütfen yukarıdaki **[AdventureWorks_Portfolio_Queries.sql](AdventureWorks_Portfolio_Queries.sql)** dosyasına tıklayınız. Her sorgunun başında amacı ve kullanılan teknik detaylıca açıklanmıştır.
 
 ---
-*Bu proje, Veri Analisti olma yolculuğumun bir parçası olarak sürekli geliştirilmektedir.*
+
